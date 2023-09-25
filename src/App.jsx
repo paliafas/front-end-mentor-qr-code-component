@@ -8,7 +8,9 @@ const App = () => {
                 <main className="flex justify-center pt-24 mb-8">
                     <QR />
                 </main>
-                <Attribution />
+                <footer>
+                    <Attribution />
+                </footer>
             </div>
         </div>
     );
