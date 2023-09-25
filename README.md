@@ -1,3 +1,3 @@
-# QR Code Component
+# Frontend Mentor QR Code Component
 
-This is a Frontend Mentor exercise for building a simple QR code component.
+Frontend Mentor challenge with the objective of building a simple QR code component.
